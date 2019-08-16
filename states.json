@@ -1,0 +1,19 @@
+{"title":"Sample",
+ "id":123,
+"entity_type":"homepagefod",
+"site":"bawarchi.com",
+  "slots": [
+   {"title":"sample1title",
+ "desc":"sample1desc",
+ "seourl":"http://www.bawarchi.com/recipe/haryali-tinda-oeta5Qcgeeagd.html",
+ "imageurl":"https://im.sify.com//sifyhome2011/images/aug2019/Shahi980x600_8_2019_1.jpg"},
+{"title":"sample2title",
+ "desc":"sample2desc",
+ "seourl":"http://www.bawarchi.com/recipe/karela-bhaja---bitter-gourd-curry-dry-oesl35iehjgaj.html",
+ "imageurl":"http://im.sify.com/sifyhome2011/images/jul2019/instead300x200left_4_2019_2.jpg"},
+{"title":"sample3title",
+ "desc":"sample3desc",
+ "seourl":"http://www.bawarchi.com/recipe/rajasthani-sattu-oerwSthdeageh.html",
+ "imageurl":"http://im.sify.com/sifyhome2011/images/jul2019/Fish850x650right_7_2019_1.jpg"}
+  ]
+}
